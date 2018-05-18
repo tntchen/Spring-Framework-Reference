@@ -19,9 +19,20 @@
         * [1.11. 使用 JSR 330 标准注解](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.11.JSR-330-annotations.md)
         * [1.12 基于 Java 配置](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.12.java-based-container-configuration.md)
         * [1.13. 环境变量抽象](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.13.enviroment-abstraction.md)
+        * [1.14. 注册一个加载时编织器](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/registering-loadtimeweaver.md)
+        * [1.15. ApplicationContext 的额外功能](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/ additional-capabilities-applicationcontext.md)
+        * [1.16 BeanFactory](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/beanfactory.md)
+    * [2. 资源](02.core-concepts-such-as-ioc-and-aop/2.resources/README.md)
+        * [2.1. 介绍](02.core-concepts-such-as-ioc-and-aop/2.resources/2.1.introduction.md)
+        * [2.2. Resource 接口](02.core-concepts-such-as-ioc-and-aop/2.resources/2.2.resource-interface.md)
+        * [2.3. 内置 Resource 实现](02.core-concepts-such-as-ioc-and-aop/2.resources/ built-in-resource-implementations.md)
+        * [2.4. ResourceLoader 接口](02.core-concepts-such-as-ioc-and-aop/2.resources/2.4.resourceloader.md)
+        * [2.5. ResourceLoaderAware 接口](02.core-concepts-such-as-ioc-and-aop/2.resources/resourceloaderaware-interface.md)
+        * [2.6. 资源依赖](02.core-concepts-such-as-ioc-and-aop/2.resources/2.6.resources-dependencies.md)
+        * [2.7. 应用上下文和资源路径](02.core-concepts-such-as-ioc-and-aop/2.resources/2.7.application-contexts-and-resource-paths.md)
 
 -----
-* [03.Spring 的测试](03.testing-spring/README.md)
+* [03.Spring 下的测试](03.testing-spring/README.md)
 
 -----
 * [04.数据访问与事务管理](04.data-access-transaction/README.md)
