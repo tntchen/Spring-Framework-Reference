@@ -18,6 +18,7 @@
         * [1.10. Classpath 扫描和组件管理](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.10.classpath-scanning-and-managed-components.md)
         * [1.11. 使用 JSR 330 标准注解](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.11.JSR-330-annotations.md)
         * [1.12 基于 Java 配置](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.12.java-based-container-configuration.md)
+        * [1.13. 环境变量抽象](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.13.enviroment-abstraction.md)
 
 -----
 * [03.Spring 的测试](03.testing-spring/README.md)
