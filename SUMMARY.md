@@ -5,7 +5,7 @@
 
 -----
 * [02.IoC 和 AOP 等核心概念](02.core-concepts-such-as-ioc-and-aop/README.md)
-    * 1. IoC 容器
+    * [1. IoC 容器](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/README.md)
         * [1.1. Spring IoC 容器和 beans 的介绍](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.1.introduction.md)
         * [1.2. 容器概述](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.2.container-overview.md)
         * [1.3. Bean 概述](02.core-concepts-such-as-ioc-and-aop/1.the-ioc-container/1.3.bean-overview.md)
