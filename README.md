@@ -7,6 +7,6 @@
 
 如有问题欢迎联系，本人微信（请标注：Spring 文档翻译）
 
-![](https://s1.ax1x.com/2018/05/31/CIufbD.png)
+[![CIKqY9.md.png](https://s1.ax1x.com/2018/05/31/CIKqY9.md.png)](https://imgchr.com/i/CIKqY9)
 
 
